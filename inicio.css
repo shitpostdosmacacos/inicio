@@ -1,0 +1,199 @@
+@media only screen and (max-width: 800px){.desk{display: none;}}
+@media only screen and (min-width: 800px){.mobile{display: none;}}
+
+* {
+
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+	background-color: #f1f1f1;
+
+}
+
+h1{
+
+	text-align: center;
+	margin: 10px;
+
+}
+
+h3{
+
+	text-transform: uppercase;
+	text-align: center;
+	margin: 10px;
+	margin-top: -10px;
+	
+}
+
+
+@media only screen and (max-width: 800px){
+
+	h3{
+
+	font-size: 10px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 10px;
+	margin-top: -10px;
+
+}
+
+
+	h1{
+
+		text-transform: uppercase;
+		font-size: 20px;
+		margin: 15px;
+
+
+	}
+
+	h3{
+
+		text-transform: lowercase;
+		font-size: auto;
+		text-align: center;
+		margin: 10px;
+		margin-top: -15px;
+
+	}
+
+}
+
+
+
+/*		ICONS		*/
+
+@media (min-width: 800px){
+.r30p{
+
+	margin-right: 30px;
+
+}}
+
+.icons1{display: none;}
+
+.icons{
+
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 10px;
+
+}
+
+.icons img{
+
+	cursor: pointer;
+	transition: .7s;
+	width: 70px;
+	height: auto;
+	margin-left: 10px;
+
+}
+
+
+
+#Pix1:hover{
+
+	
+	width: 90px;
+	height: auto;
+	margin-left: 10px;
+
+}
+
+#Cripto1:hover{
+
+	width: 90px;
+	height: auto;
+	margin-left: 10px;
+
+}
+
+#Bank1:hover{
+
+	width: 90px;
+	height: auto;
+	margin-left: 10px;
+
+}
+
+
+
+@media only screen and (max-width: 800px){.icons{display: none;} .r30p{margin-right: 10px;} .icons1{
+
+	display: block;
+	position: absolute;
+	right: 10px;
+	margin-top: 22.5px;
+
+}}}
+
+/*		FORMATAÇÃO DOS TEXTOS		*/
+
+
+.texto1{
+
+
+	margin-top: 20px;
+	font-size: 20px;
+
+}
+
+
+.texto2{
+
+	margin-top: 2px;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px){
+
+	.texto1{
+
+
+	margin: 20px;
+	margin-bottom: 10px;
+	font-size: 9px;
+
+	}
+
+	.texto2{
+
+		font-size: 10px;
+
+	}
+
+
+
+}
+
+
+/*		FIM DA FORMATAÇÃO DOS TEXTOS		*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*		fim dos icons		*/

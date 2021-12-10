@@ -1,0 +1,27 @@
+
+
+
+body{
+
+    text-decoration: none;
+    background-color: #f1f1f1;
+    font-family: Arial;
+
+}
+
+h1{
+
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+
+}
+
+h3{
+
+    text-align: center;
+    margin: 10px;
+    margin-top: -10px;
+
+}

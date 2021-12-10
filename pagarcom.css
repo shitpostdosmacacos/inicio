@@ -1,0 +1,170 @@
+
+
+
+@media only screen and (max-width: 800px){.desk{display: none;}}
+@media only screen and (min-width: 800px){.mobile{display: none;}}
+
+* {
+
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+
+}
+
+h1{
+
+    text-align: center;
+    margin: 15px;
+
+}
+
+h3{
+
+    text-align: center;
+    margin: 10px;
+    margin-top: -10px;
+
+}
+
+.bordico1{
+
+    margin-left: 10px;
+    margin-top: -7px;
+    float: left;
+
+}
+
+.bordico2{
+
+    margin-right: 10px;
+    margin-top: -7px;
+    float: right;
+
+}
+
+
+@media only screen and (max-width: 800px){
+
+
+.bordico1{display: none;}
+.bordico2{display: none;}
+
+
+    h1{
+
+        font-size: 20px;
+        margin: 15px;
+
+
+    }
+
+    h3{
+
+        font-size: auto;
+        text-align: center;
+        margin: 10px;
+        margin-top: -10px;
+
+    }
+
+}
+
+#depoav a{
+
+    text-decoration: none;
+
+}
+
+@media (max-width: 800px){
+    
+    #depoav{
+
+        margin-top: 30px;
+        font-size: 13px;
+
+}}
+
+#tutoriais1{
+
+    margin: 10px;
+    margin-bottom: 100px;
+
+}
+
+#tutoriais1 p{
+
+    margin: 10px;
+    margin-left: 25px;
+
+}
+
+#tutoriais1 a{
+
+    text-decoration: none;
+
+}
+
+#texto3{
+
+    margin: 40px;
+
+
+}
+
+#codepix{
+
+    margin-right: 200px;
+    float: right;
+    width: 300px;
+    height: auto;
+
+}
+
+#l1{margin-left: 200px;}
+
+#sqr{display: none;}
+
+@media (max-width: 1080px){
+ 
+    #codepix{display: none;}
+#sqr{display: block;}
+
+#texto3{text-align: center; margin: 0px; margin-top: 45px;}
+
+    #tutoriais1{text-align: center; margin: 0px;}
+
+    #tutoriais1{font-size: 15px; margin-bottom: 100px;}
+
+    #l1{text-align: center; margin: 0;}
+
+    #tks{margin-bottom: 50px;}
+
+@media (max-width: 540px){
+
+    
+    .t1{font-size: 15px;}
+
+    
+}}
+
+
+
+@media (max-width: 417px){
+
+    
+    .t1{font-size: 10px;}
+
+    
+}
+
+
+
+
+
+
+
+
+
+
