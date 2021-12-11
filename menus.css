@@ -64,6 +64,10 @@
 .menusec:hover .ton{ max-height: 20px; display: none;}
 .menusec:hover .toff{transition: .1s; display: block;}
 */
+
+/*UP Button desligado*/
+.upbot{display: none;}
+
 .upbot{
 
 	bottom: 30px;
