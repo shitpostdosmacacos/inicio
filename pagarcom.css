@@ -1,7 +1,7 @@
 
 
 
-@media only screen and (max-width: 800px){.desk{display: none; #sqr{display: none;}}
+@media only screen and (max-width: 800px){.desk{display: none; #sqr{display: none;}}}
 @media only screen and (min-width: 800px){.mobile{display: none; #sqr{display: none;}}}
 
 * {
